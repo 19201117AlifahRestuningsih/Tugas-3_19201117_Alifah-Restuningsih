@@ -13,7 +13,7 @@
                     <td> <input type="text" name="nim" id="nim"> </td> 
                 </tr> 
                 <tr> <th>Nama</th> <td>:</td> 
-               <td> <input type="text" name="nama" id="nm"> </td> 
+               <td> <input type="text" name="nama" id="nama"> </td> 
                 </tr> 
                 <tr> <th>Alamat</th> <td>:</td> 
                <td> <input type="text" name="alamat" id="alamat"> </td> 
